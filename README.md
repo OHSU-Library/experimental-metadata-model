@@ -1,5 +1,5 @@
 # experimental-metadata
-Framework for a simple, domain-independent, and extensible experimental metadata model.
+*A framework for a simple, domain-independent, and extensible experimental metadata model.*
 
 This repository holds artifacts related to the specification of a simple, domain-independent, and extensible experimental metadata model for describing research objects (ROs) such as datasets, protocols, experimental records, and publications. In these efforts we are clear to distinguish the notion of **general metadata**, which describes attributes of a research object itself, from that of **experimental metadata**, which describes an experiment related to the research object. There are many well established standards in place to describe general metadata (e.g. [DC](http://dublincore.org/), [DCAT](http://www.w3.org/TR/vocab-dcat/), [PROV](http://www.w3.org/TR/prov-o/)), and recommendations about how to apply these (e.g. the [HCLS Dataset Description Standard](http://www.w3.org/2001/sw/hcls/notes/hcls-dataset/) ). The greater and more pressing challenge is to similarly define standards around capturing experimental metadata - which describes how entities such as **techniques**, **specimens**, and **variables** are applied in an experiment that generated a dataset.
 
