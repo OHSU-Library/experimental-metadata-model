@@ -5,3 +5,9 @@ This repository holds artifacts related to the specification of a simple, domain
 
 
 The documents contained here present our environmental scan to identify and evaluate related efforts, describe requirements analysis and use cases that informed our model, and document initial straw-man modeling proposals.  More formally defined models and documentation are to come, but at present the best place to start is to review the slide deck here which gives an overview of our work to date, and the document here that goes into greater detail about certain aspects of the work (e.g. the core concept glossary). The spreadsheets here contain some of the initial landscape analysis efforts we performed to inform our work.
+
+-------------------------
+
+**Initial Strawman Model:** *As illustrated with metadata for an exemplar experiment that used transcriptional profiling by microarray to explore AKT-dependent stress response pathways in transformed  adenocarcinoma cells vs healthy epithelial cells.*
+
+<img src="docs/EMM-example.jpg"/> 
