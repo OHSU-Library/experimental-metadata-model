@@ -2,7 +2,8 @@
 *A framework for a simple, domain-independent, and extensible experimental metadata model.*
 
 This repository holds artifacts related to the specification of a simple, domain-independent, and extensible experimental metadata model for describing research objects (ROs) such as datasets, protocols, experimental records, and publications. 
-This work is in its **early stages**. The documents contained here present our environmental scan to identify and evaluate related efforts, describe requirements analysis and use cases that informed our model, and document initial straw-man modeling proposals. More formally defined models and documentation are to come, but at present the best place to start is to review the docs in this repository:
+
+This work is in its early stages. The documents contained here describe requirements analysis and use cases that informed our model, and document initial straw-man modeling proposals, and present our environmental scan to identify and evaluate related efforts.  More formally defined models and documentation are to come, but at present the *best place to start* is to review the following docs:
 
 * The **slide deck [here](https://github.com/OHSU-Ontology-Development-Group/experimental-metadata/blob/master/docs/6-18-15%20Experimental%20Metadata%20Concepts%20and%20Models.pptx?raw=true)** gives an overview of our work to date.
 * The **document [here](https://github.com/OHSU-Ontology-Development-Group/experimental-metadata/blob/master/docs/CoreConceptsforExperimentalMetadataModel_v1.docx?raw=true)** goes into greater detail about certain aspects of the work (e.g. the core concept glossary). 
