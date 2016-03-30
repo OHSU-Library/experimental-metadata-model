@@ -1,4 +1,6 @@
 # experimental-metadata
+
+[![Join the chat at https://gitter.im/OHSU-Ontology-Development-Group/experimental-metadata-model](https://badges.gitter.im/OHSU-Ontology-Development-Group/experimental-metadata-model.svg)](https://gitter.im/OHSU-Ontology-Development-Group/experimental-metadata-model?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 *A framework for a simple, domain-independent, and extensible experimental metadata model.*
 
 This repository holds artifacts related to the specification of a simple, domain-independent, and extensible experimental metadata model for describing research objects (ROs) such as datasets, protocols, experimental records, and publications. This work is in its early stages, and initial efforts were funded by [Elsevier](http://www.elsevier.com/). The documents contained here describe requirements and use cases that informed our model, present an environmental scan that identifies related efforts, and presents somme initial straw-man modeling proposals.  More formally defined models and documentation are to come, but at present the *best place to start* is to review the following docs:
